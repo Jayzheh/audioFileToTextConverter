@@ -8,7 +8,7 @@ Convert your audio files to text using OpenAI's powerful Whisper AI. Simple, fas
 
 This project is for **personal use only**. The code is **not available for reuse, modification, or commercial purposes**. All rights reserved. 
 
-(PS it goes without saying but if you get caught partaking in any type of cheating using this, I am not to be help responsible)
+(PS: it goes without saying but, if you get caught partaking in any type of cheating using this, I am not to be held responsible)
 
 ## ✨ What It Does
 
