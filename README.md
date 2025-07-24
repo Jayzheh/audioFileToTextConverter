@@ -6,9 +6,9 @@ Convert your audio files to text using OpenAI's powerful Whisper AI. Simple, fas
 
 ## ⚠️ Important Notice
 
-This project is for **personal use only**. The code is **not available for reuse, modification, or commercial purposes**. All rights reserved.
+This project is for **personal use only**. The code is **not available for reuse, modification, or commercial purposes**. All rights reserved. 
 
-**Created by HalfbloodPrince** ⚡
+(PS it goes without saying but if you get caught partaking in any type of cheating using this, I am not to be help responsible)
 
 ## ✨ What It Does
 
@@ -59,7 +59,7 @@ OpenAI charges about $0.006 per minute of audio:
 
 ## 🔒 Privacy
 
-- Your audio files are never stored on our servers
+- Your audio files are never stored 
 - Files are sent directly to OpenAI for processing
 - Transcriptions are only shown to you
 - Everything is deleted after processing
@@ -113,6 +113,6 @@ This software is provided as-is for personal use only.
 
 ---
 
-**Made with by HalfbloodPrince**
+**Made with 💙 by HalfbloodPrince**
 
 *Personal Audio Transcription Tool - 2025*
