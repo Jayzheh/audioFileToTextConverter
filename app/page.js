@@ -15,21 +15,13 @@ export default function Home() {
   // Console signature
   React.useEffect(() => {
     console.log(`
-╔════════════════════════════════╗
-║                                ║
-║    ██   ██ ██████              ║
-║    ██   ██ ██   ██             ║
-║    ███████ ██████              ║
-║    ██   ██ ██                  ║
-║    ██   ██ ██                  ║
-║                                ║
-║    HALFBLOODPRINCE... ⚡        ║
-║                                ║
-║  🎤 Audio Transcription App    ║
-║     Personal Use Only          ║
-║        © 2024                  ║
-║                                ║
-╚════════════════════════════════╝
+                                
+    ██   ██ ██████              
+    ██   ██ ██   ██             
+    ███████ ██████              
+    ██   ██ ██                  
+    ██   ██ ██                  
+    HALFBLOODPRINCE
     `);
   }, []);
 
